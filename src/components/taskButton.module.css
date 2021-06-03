@@ -1,0 +1,12 @@
+.taskButton {
+  padding: 13px 10px;
+  cursor: pointer;
+}
+
+.taskButton:hover {
+  background: #ededed;
+}
+.taskButtonActive {
+  padding: 13px 10px;
+  background: #999;
+}

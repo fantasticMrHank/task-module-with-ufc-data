@@ -1,0 +1,23 @@
+.homeContainer {
+  display: flex;
+  margin: 20px;
+  border: 1px solid #ddd;
+}
+
+.taskMenuContainer {
+  width: 200px;
+  height: 1000px;
+  border-right: 4px solid #ddd;
+  /* background-color: red; */
+}
+
+.taskListContainer {
+  flex-grow: 1;
+  /* background: green; */
+}
+
+.menubar {
+  list-style: none;
+  text-align: left;
+  padding-left: 0px;
+}

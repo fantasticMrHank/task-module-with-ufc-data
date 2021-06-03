@@ -1,0 +1,196 @@
+{
+  "fighters": [
+    {
+      "id": 1,
+      "name": "Francis Ngannou",
+      "weightclass": "Heavyweight",
+      "record": "16–3",
+      "champion": true,
+      "ranking": 1,
+      "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Francis_Ngannou_photo.jpg/220px-Francis_Ngannou_photo.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Jan Błachowicz",
+      "weightclass": "Light Heavyweight",
+      "record": "28-8",
+      "champion": true,
+      "ranking": 1,
+      "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jan_Blachowicz_at_UFC_Fight_Night_136.jpg/412px-Jan_Blachowicz_at_UFC_Fight_Night_136.jpg"
+    },
+    {
+      "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Stipe_Miocic_%2848086643396%29_%28cropped%29.jpg/324px-Stipe_Miocic_%2848086643396%29_%28cropped%29.jpg",
+      "name": "Stipe Miocic",
+      "weightclass": "Heavyweight",
+      "record": "20-4",
+      "ranking": 2,
+      "champion": false,
+      "id": 6
+    },
+    {
+      "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Derrick_Lewis_after_UFC_239.jpg/480px-Derrick_Lewis_after_UFC_239.jpg",
+      "name": "Derrick Lewis",
+      "weightclass": "Heavyweight",
+      "record": "25-7",
+      "ranking": 3,
+      "champion": false,
+      "id": 8
+    },
+    {
+      "name": "Israel Adesanya",
+      "weightclass": "Middleweight",
+      "record": "20-1",
+      "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Israel_Adesanya_at_UFC_230.jpg/376px-Israel_Adesanya_at_UFC_230.jpg",
+      "ranking": 1,
+      "champion": true,
+      "id": 9
+    },
+    {
+      "name": "Robert Whittaker",
+      "weightclass": "Middleweight",
+      "record": "23-5",
+      "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Robert_whittaker.jpg/384px-Robert_whittaker.jpg",
+      "ranking": 2,
+      "champion": false,
+      "id": 10
+    },
+    {
+      "name": "Glover Teixeira",
+      "weightclass": "Light Heavyweight",
+      "record": "32-7",
+      "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Glover_Teixeira.jpg/427px-Glover_Teixeira.jpg",
+      "ranking": 2,
+      "champion": false,
+      "id": 11
+    },
+    {
+      "pic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ji%C5%99%C3%AD_%22Denisa%22_Proch%C3%A1zka_2020_07_Strahov_Praha.jpg/373px-Ji%C5%99%C3%AD_%22Denisa%22_Proch%C3%A1zka_2020_07_Strahov_Praha.jpg",
+      "name": "Jiří Procházka",
+      "weightclass": "Light Heavyweight",
+      "record": "28-3-1",
+      "ranking": 3,
+      "champion": false,
+      "id": 12
+    },
+    {
+      "name": "Paulo Costa",
+      "weightclass": "Middleweight",
+      "record": "13-1",
+      "pic": "https://pbs.twimg.com/media/Ei6lY3DX0Askmb3.jpg",
+      "ranking": 3,
+      "champion": false,
+      "id": 13
+    },
+    {
+      "name": "Ciryl Gane",
+      "weightclass": "Heavyweight",
+      "pic": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/4426000.png",
+      "record": "8-0",
+      "ranking": 4,
+      "champion": false,
+      "id": 14
+    },
+    {
+      "name": "Curtis Blaydes",
+      "weightclass": "Heavyweight",
+      "pic": "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/3922557.png",
+      "record": "14-3",
+      "ranking": 5,
+      "champion": false,
+      "id": 15
+    }
+  ],
+  "weightclasses": [
+    {
+      "id": 1,
+      "name": "Heavyweight"
+    },
+    {
+      "id": 2,
+      "name": "Light Heavyweight"
+    },
+    {
+      "name": "Middleweight",
+      "id": 3
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "type": "store task",
+      "title": "But I must explain to you how all this mistaken idea",
+      "priority": "high",
+      "due": "05/21/2021"
+    },
+    {
+      "id": 2,
+      "type": "district task",
+      "title": "Denouncing pleasure and praising pain was born",
+      "priority": "medium",
+      "due": "06/17/2021"
+    },
+    {
+      "id": 4,
+      "type": "store task",
+      "title": "Expound the actual teachings of the great explorer of the truth",
+      "priority": "low",
+      "due": "06/16/2021"
+    },
+    {
+      "id": 7,
+      "type": "district task",
+      "title": "Because it is pleasure, but because those who",
+      "priority": "high",
+      "due": "02/21/2021"
+    },
+    {
+      "id": 10,
+      "type": "store task",
+      "title": "Laborious physical exercise, except to obtain some advantage from it",
+      "priority": "high",
+      "due": "06/10/2021"
+    },
+    {
+      "type": "store task",
+      "title": "One-hundred years ago, an unfathomable hate crime occurred in Tulsa",
+      "priority": "medium",
+      "due": "6/25/2021",
+      "id": 22
+    },
+    {
+      "type": "corporate task",
+      "title": "There seems to be a performance problem regarding the use",
+      "priority": "medium",
+      "due": "6/16/2021",
+      "id": 23
+    },
+    {
+      "type": "corporate task",
+      "title": "It worked for me in that it brought VS Code up ",
+      "priority": "high",
+      "due": "6/6/2021",
+      "id": 24
+    },
+    {
+      "type": "corporate task",
+      "title": "I'm converting a relatively new CRA app over to Typescript",
+      "priority": "low",
+      "due": "6/7/2021",
+      "id": 25
+    }
+  ],
+  "taskTypes": [
+    {
+      "id": 1,
+      "name": "corporate task"
+    },
+    {
+      "id": 2,
+      "name": "district task"
+    },
+    {
+      "id": 3,
+      "name": "store task"
+    }
+  ]
+}
